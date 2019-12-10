@@ -1,0 +1,14 @@
+html { box-sizing: border-box; }
+*, *:before, *:after { box-sizing: inherit; }
+img { box-sizing: content-box; }
+
+
+body {
+	padding: 0px;
+	margin: 0px;
+    background-color: rgb(200,200,27);
+	background-image: url("images/Background.jpg");
+}
+
+
+
